@@ -758,7 +758,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(243,151,108, 0.8);
     padding: 40px 40px 40px 40px;
 }
 
@@ -989,7 +989,7 @@ p.tc-white {
     .bloc-xxl,
     .bloc-xl,
     .bloc-lg {
-        padding: 40px 0;
+        padding: 0px;
     }
     .bloc-sm,
     .bloc-md {
