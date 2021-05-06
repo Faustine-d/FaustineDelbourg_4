@@ -754,6 +754,7 @@ h4 {
     margin-top: 50px;
 }
 
+
 .avatar {
     box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.3);
 }
@@ -1053,4 +1054,21 @@ p.tc-white {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+/*Réseaux sociaux*/
+.social4{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 15vw;
+    margin-right: 15vw;
+    margin-top:10px;
+    margin-bottom:10px;
+    justify-content: space-between;
+}
+
+/*Partenaires*/
+.row{
+    margin:auto;
 }
